@@ -50,6 +50,9 @@ MrCrayFish Veichles - Veículos ###### OPICIONAL
 
 CraftTweaker - spawn de loot CONFIGURAR BEM!
 
+Loot beams reloot - adiciona ul beacom com a raridade do item
+
+
 
 
 
